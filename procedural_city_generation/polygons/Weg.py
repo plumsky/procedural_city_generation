@@ -2,7 +2,7 @@ from __future__ import division
 import matplotlib.pyplot as plt
 class Weg(object):
     def __init__(self, k1, k2, strassennetz=True):
-        print "WEG CREATED XD"
+        print("WEG CREATED XD")
         self.k1=k1
         self.k2=k2
 

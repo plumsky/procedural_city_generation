@@ -43,7 +43,7 @@ with::
 * numpy (1.8.2+)
 * scipy (0.14.1+)
 * matplotlib (1.4.2+)
-* PyQt4 (4.8.6+)
+* PyQt5 (5.10.1+)
 * Blender 2.6x+
 
 All dependencies except Blender should be included in any scientific python distribution (e.g. Python(x, y) and Anaconda).

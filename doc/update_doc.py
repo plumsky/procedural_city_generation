@@ -10,7 +10,7 @@ def main():
 
     for x in os.listdir(os.getcwd()):
         if x.endswith(".rst"):
-            print x
+            print(x)
             x2=x
             if "procedural_city_generation.procedural_city_generation" in x:
                 x2=x[l:]
